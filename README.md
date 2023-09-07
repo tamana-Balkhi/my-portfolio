@@ -24,7 +24,7 @@ for running of this project follow these steps.
 
 Step 1: Type the following command into a git shell
 
-git clone https://github.com/tamana-Balkhi/portfolio1.git
+git clone https://github.com/tamana-Balkhi/my_portfolio.git
 
 ### Prerequisites
 
